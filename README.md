@@ -1,9 +1,9 @@
 # Proyecto Compras
 
 Tecnologías implementadas:
-                   Vite
-                   React
-                   Css
-                   JavaScript
-                   Github
+                   #Vite
+                   #React
+                   #Css
+                   #JavaScript
+                   #Github
 
